@@ -1,0 +1,12 @@
+{
+  "ANGULAR_5_TUTORIAL": "Tutorial de Angular 5",
+  "USERNAME": "Nombre de Usuario",
+  "NAME": "Nombre",
+  "SURNAME": "Apellido",
+  "EMAIL": "Email",
+  "PASSWORD": "Contraseña",
+  "CONFIRM_PASSWORD": "Confirmar Contraseña",
+  "I_ACCEPT_TERMS_AND_CONDITIONS": "Aceptar terminos y condiciones",
+  "SUBMIT": "Enviar",
+  "LANGUAGES": "Lenguages"
+}
